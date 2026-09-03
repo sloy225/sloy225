@@ -141,7 +141,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sloy225/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sloy225/sloy225/master/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
