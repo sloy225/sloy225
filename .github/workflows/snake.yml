@@ -33,4 +33,4 @@ jobs:
         with:
           add: "dist"
           message: "Update contribution snake"
-          pull: "--rebase --autostash"
+          push: "origin master --force"
