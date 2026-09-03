@@ -119,9 +119,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sloy225&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api?username=sloy225&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloy225&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sloy225&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
 
 </div>
 
