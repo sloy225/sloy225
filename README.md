@@ -71,7 +71,7 @@
 
 ---
 
-# 🚀 Mes projets
+# 🚀 Mes projets 
 
 ## 🤖 AGENT-PROSPECTION-COMMERCIAL-CREWAI
 
@@ -147,7 +147,7 @@
 
 ---
 
-# 🌱 Actuellement
+# 🌱 Actuellement.
 
 ```text
 🤖 Generative AI
